@@ -1,4 +1,4 @@
-# MNIST-GAN-and-Music-Genre-Prediction
+<h1>MNIST-GAN-and-Music-Genre-Prediction</h1>
 ## MNIST GAN
 In this project, I have trained a DCGAN on the famous MNIST dataset for all 10 classes which are number form 0-9 for 2 epochs.The DCGAN has n Encoder-Decoder architecture as show below.<br>
 ### Generator
