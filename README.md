@@ -6,6 +6,7 @@ In this project, I have trained a DCGAN on the famous MNIST dataset for all 10 c
 <h3>Discriminator</h3>
 <img src="disc.png" width=500 height=500>
 <br>
+<h3>Results</h3>
 <img src='GAN.png'>
 <img src='GAN2.png'>
 <br>
@@ -14,4 +15,4 @@ In this project, i have a dataset of 200 songs(audio files) belonging totwo clas
 <h3>LGBM Classification Report</h3>
 <img src="LGBM.PNG" height=300 width=300>
 <h3>ANN Classification Report</h3>
-<img src="ANN.PNG" height>
+<img src="ANN.PNG" height=300 width=300>
